@@ -1,2 +1,3 @@
 # hello-world
-Test repo to refresh git commands/standards
+
+My name is Dan Smillie and I am from New Jersey.
